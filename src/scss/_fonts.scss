@@ -1,0 +1,12 @@
+// fonts 
+@font-face {
+    font-family: 'ns';
+    src: url('./../src/fonts/NeoSansStd-Bold/NeoSansStd-Bold.eot?#iefix') format('embedded-opentype'),
+         url('./../src/fonts/NeoSansStd-Bold/NeoSansStd-Bold.ttf')  format('truetype'),
+         url('./../src/fonts/NeoSansStd-Bold/NeoSansStd-Bold.otf')  format('opentype'),
+         url('./../src/fonts/NeoSansStd-Bold/NeoSansStd-Bold.woff') format('woff'),
+         url('./../src/fonts/NeoSansStd-Bold/NeoSansStd-Bold.svg#NeoSansStd-Bold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}

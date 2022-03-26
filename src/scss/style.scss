@@ -1,0 +1,18 @@
+@import "global";
+@import "mixins";
+@import "colors";
+@import "typography";
+@import "icons";
+@import "fonts";
+@import "header";
+@import "footer";
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: "Roboto" sans-serif;
+}
+
+
